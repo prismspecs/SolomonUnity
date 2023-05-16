@@ -1,9 +1,15 @@
 # Unity Tutoring
 
++ [Link to code-sharing EtherPad](https://yopad.eu/p/grayson-sol-unity)
+
 ## Weekly Notes
 
 ### Week 1
 + [transform.Rotate](https://docs.unity3d.com/ScriptReference/Transform.Rotate.html)
+
+### Week 2
+
+
 
 ## Ideas for later
 + Maya
