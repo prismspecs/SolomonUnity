@@ -14,6 +14,10 @@
 + [AddForce](https://docs.unity3d.com/ScriptReference/Rigidbody.AddForce.html)
 + [ForceMode.Impulse](https://docs.unity3d.com/ScriptReference/ForceMode.Impulse.html)
 
+### Week 3
++ [Transform.Translate](https://docs.unity3d.com/ScriptReference/Transform.Translate.html)
++ [Vector3 as offset](https://docs.unity3d.com/ScriptReference/Vector3.html)
++ [Zero (stop) the force on an object](https://answers.unity.com/questions/12878/how-do-i-zero-out-the-velocity-of-an-object.html)
 
 ## Ideas for later
 + Maya
