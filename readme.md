@@ -23,6 +23,9 @@
 + [OnCollisionEnter](https://docs.unity3d.com/ScriptReference/Collider.OnCollisionEnter.html)
 + [Scene Management](https://docs.unity.cn/ScriptReference/SceneManagement.SceneManager.SetActiveScene.html)
 
+### Week 5
++ [List of GameObjects](https://forum.unity.com/threads/make-a-game-object-list-and-picking-from-that-list.887368/)
++ 
 
 ## Ideas for later
 + Maya
