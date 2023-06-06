@@ -21,6 +21,7 @@
 
 ### Week 4
 + [OnCollisionEnter](https://docs.unity3d.com/ScriptReference/Collider.OnCollisionEnter.html)
++ [Scene Management](https://docs.unity.cn/ScriptReference/SceneManagement.SceneManager.SetActiveScene.html)
 
 
 ## Ideas for later
