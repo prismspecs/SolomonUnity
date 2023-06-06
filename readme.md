@@ -19,6 +19,10 @@
 + [Vector3 as offset](https://docs.unity3d.com/ScriptReference/Vector3.html)
 + [Zero (stop) the force on an object](https://answers.unity.com/questions/12878/how-do-i-zero-out-the-velocity-of-an-object.html)
 
+### Week 4
++ [OnCollisionEnter](https://docs.unity3d.com/ScriptReference/Collider.OnCollisionEnter.html)
+
+
 ## Ideas for later
 + Maya
   + Let's learn import/export
