@@ -31,6 +31,10 @@
 + Started Cookie Clicker clone
 + [Clicking objects](https://www.youtube.com/watch?v=kkkmX3_fvfQ)
 
+### Week 7
++ [Generate Random Quaternion](https://stackoverflow.com/questions/31600717/how-to-generate-a-random-quaternion-quickly)
++ [Random.Range](https://docs.unity3d.com/ScriptReference/Random.Range.html)
+
 ## Ideas for later
 + Maya
   + Let's learn import/export
