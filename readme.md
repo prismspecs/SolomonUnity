@@ -25,7 +25,11 @@
 
 ### Week 5
 + [List of GameObjects](https://forum.unity.com/threads/make-a-game-object-list-and-picking-from-that-list.887368/)
-+ 
++ [ForEach list of objects](https://forum.unity.com/threads/foreach-a-list-of-objects.453140/)
+
+### Week 6
++ Started Cookie Clicker clone
++ [Clicking objects](https://www.youtube.com/watch?v=kkkmX3_fvfQ)
 
 ## Ideas for later
 + Maya
